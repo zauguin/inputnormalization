@@ -134,7 +134,7 @@
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesPackage
   {inputnormalization}
-  [2021/07/05 v0.0.2 Unicode input normalization]
+  [2021/07/05 v0.2 Unicode input normalization]
 %</package>
 %    \end{macrocode}
 % Only \LuaTeX\ and \XeTeX\ are supported.
@@ -184,7 +184,7 @@
 %    \begin{macrocode}
 \else
 %    \end{macrocode}
-% First deal wth \XeTeX: Define |\Uinputnormalization| as an alias for |\XeTeXinputnormalization|.
+% First deal with \XeTeX: Define |\Uinputnormalization| as an alias for |\XeTeXinputnormalization|.
 % Make sure that \texttt{ltluatex} is loaded.
 %    \begin{macrocode}
   \let\Uinputnormalization\XeTeXinputnormalization
@@ -213,7 +213,7 @@
   }
 \fi
 %    \end{macrocode}
-% \changes{0.0.2}{2021-07-05}{Enable NFC by default}
+% \changes{0.2}{2021-07-05}{Enable NFC by default}
 % Finally we enable NFC normalization as a reasonable default:
 %    \begin{macrocode}
 \Uinputnormalization=1
