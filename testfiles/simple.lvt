@@ -1,0 +1,24 @@
+\input regression-test
+\documentclass{article}
+\usepackage{inputnormalization}
+\def\mystop{\mystop}
+\def\showuni#1{\showUni#1\mystop}
+\def\showUni#1{%
+  \ifx\mystop#1%
+    \message{----}
+  \else
+    \showthe\numexpr`#1\relax
+    \expandafter\showUni
+  \fi
+}
+\begin{document}
+\START
+\showuni{abcäöü}
+\Uinputnormalization=0
+\showuni{abcäöü}
+\Uinputnormalization=1
+\showuni{abcäöü}
+\Uinputnormalization=2
+\showuni{abcäöü}
+\STOP
+\end{document}

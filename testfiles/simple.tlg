@@ -1,0 +1,98 @@
+This is a generated file for the l3build validation system.
+Don't change this file in any respect.
+> 97.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 98.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 99.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 228.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 246.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 252.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+----
+> 97.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 98.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 99.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 228.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 246.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 117.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+> 776.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6ü}
+----
+> 97.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 98.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 99.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 228.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 246.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+> 252.
+<recently read> \relax 
+l. ...\showuni{abc^^e4^^f6^^fc}
+----
+> 97.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 98.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 99.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 97.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 776.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 111.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 776.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 117.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+> 776.
+<recently read> \relax 
+l. ...\showuni{abcäöü}
+----
+! Undefined control sequence.
+l. ...\STOP
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+(simple.aux)
