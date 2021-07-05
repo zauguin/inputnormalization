@@ -2,6 +2,7 @@
 Unicode normlization for LuaTeX and XeTeX.
 
 Author: Marcel Krüger
+
 License: LPPL v1.3
 
 Provides a cross engine interface to normalizing input before it's read by TeX. Based on XeTeX's `\XeTeXinputnormalization` primitive and `lua-uni-algos` for LuaTeX.
